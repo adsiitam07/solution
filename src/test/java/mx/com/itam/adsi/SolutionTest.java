@@ -36,7 +36,7 @@ public class SolutionTest
     }
     
     @Test
-    public void prueba3()
+    public void prueba4()
     {
         assertTrue("Verifica ferferferferfe", Solution.problema("ferferferferfe"));
     }
