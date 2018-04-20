@@ -1,3 +1,10 @@
+
+/*
+ * Verifico cual es la cadena que se tiene que comparar buscando la primera repeticiond de la primera letra.
+ * Como conozco su externsion, puedo moverme a traves de la cadena para verificar si es igual a lo que quiero comparar.
+ * La solucion no es optima, porque no encuentro aquellas cadenas cuyas letras se repitan incluso en la cadena que se repite.
+ * 
+ * */
 public class Solution {
   public static boolean problema(String s) {
 	    boolean sol = true;
